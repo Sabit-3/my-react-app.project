@@ -1,0 +1,60 @@
+/* Assuming your footer has a class named "footer" */
+.footer {
+    background-color: #333; /* Background color */
+    color: #000000; /* Text color */
+    padding: 20px; /* Padding to give some space inside the footer */
+    text-align: center; /* Align text to the center */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+footer a {
+       text-decoration: none;
+  }
+  /* Style for links inside the footer */
+/* footer li {
+    color: #000000; /* Link color */
+    /* list-style:none; /* Remove underlines from links */
+    /* margin: 0 10px; Add some spacing between links
+  } */ 
+   
+  .footer-a {
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+    transition: all 0.3s ease-in-out;
+ }
+
+ .footer-a-dark{
+    margin-left: 40px;
+    text-decoration: none;
+    color: rgb(226, 221, 221);
+    transition: all 0.3s ease-in-out;
+ }
+
+
+  /* Style for links on hover
+  footer a {
+    text-decoration: none;
+    color: rgb(255, 248, 248);
+    transition: all 0.3s ease-in-out;
+ }
+  */
+  
+.footer-dark {
+    background-color: rgb(81, 43, 96);
+    color: aliceblue;
+    height: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+.footer-light {
+    background-color: rgb(244, 143, 143);
+    height: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}

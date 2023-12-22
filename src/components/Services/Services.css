@@ -1,0 +1,45 @@
+
+.main-div-light{
+     height: 80vh ;
+    
+}
+
+
+
+.main-div-dark{
+    height: 80vh ;
+    background-color: black;
+
+}
+
+
+.center-section {
+    background-image: url('/Volumes/Macintosh HD/PROJECTC/my-react-app/src/assets/clo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 74.4vh;
+    font-size: 40px;
+    color: rgb(209, 100, 100);
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+    opacity: 0.9;
+}
+
+
+.center-section-dark {
+    background-image: url('/Volumes/Macintosh HD/PROJECTC/my-react-app/src/assets/clo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 74.3vh;
+    font-size: 40px;
+    color: rgb(118, 78, 139);
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+    opacity: 0.5;
+}
+
+
+
+
